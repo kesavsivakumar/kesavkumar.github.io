@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Big Data Engineer and Data science enthusiast having 3+ years of industry experience in developing ETL applications (mainly using Big Data frameworks such as pyspark,hive etc. ) following Agile methodologies. Data science & A.I. have been my keen interests, all through my academics and career. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
