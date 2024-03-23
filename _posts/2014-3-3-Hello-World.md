@@ -12,6 +12,7 @@ Regards,
 Kesav Kumar J S
 
 
-Acquired python programming certification from NPTEL (National Programme on Technology Enhanced Learning)
-![_config.yml]({{ site.baseurl }}/images/Programming, Data Structures and Algorithms using Python.jpg)
+
+![_config.yml]({{ site.baseurl }} Acquired python programming certification from NPTEL (National Programme on Technology Enhanced Learning) 
+/images/Programming, Data Structures and Algorithms using Python.jpg)
 
