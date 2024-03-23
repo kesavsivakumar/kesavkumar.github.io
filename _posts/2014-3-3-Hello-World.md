@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: Welcome to my personal blog !
---
+---
 
 Hey Amigos,
 
