@@ -11,5 +11,7 @@ Please free to contact me through my social media handle incase of any queries.
 Regards,
 Kesav Kumar J S
 
+
+Acquired python programming certification from NPTEL (National Programme on Technology Enhanced Learning)
 ![_config.yml]({{ site.baseurl }}/images/Programming, Data Structures and Algorithms using Python.jpg)
 
