@@ -11,6 +11,6 @@ Please free to contact me through my social media handle incase of any queries.
 Regards,
 Kesav Kumar J S
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/Coursera GDK8MSNWPV38.png)
 
 
